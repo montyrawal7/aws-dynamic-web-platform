@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# Local database
+orders.db
+
+# Environment / secrets
+.env
+
+# OS junk
+.DS_Store
+Thumbs.db
